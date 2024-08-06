@@ -34,4 +34,3 @@ The "News-Data-Analysis" project automates fetching news articles from the News 
 ### Analyze Data in Snowflake
 1. **Query Data**: Use Snowflake to query and analyze the loaded data.
 
-## Directory Structure
